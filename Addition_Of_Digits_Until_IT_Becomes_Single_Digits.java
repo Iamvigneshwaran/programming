@@ -1,5 +1,6 @@
 package programing_tamil;
 import java.util.Scanner;
+
 public class Addition_Of_Digits_Until_IT_Becomes_Single_Digits {
 
 	
